@@ -1,0 +1,14 @@
+@media only screen and (max-width: 992px) {
+  .about__page-content h2 {
+    font-size: 1.5rem;
+    background: linear-gradient(45deg, #513848, #516548);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .about__page-img {
+    display: none;
+  }
+}
